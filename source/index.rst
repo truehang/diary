@@ -11,6 +11,7 @@ Welcome to First Doc's documentation!
    :caption: Contents: 
 
    0416/index
+   素数筛法/contents
 
 
 Indices and tables
