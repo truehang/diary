@@ -3,16 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to First Doc's documentation!
+学习笔记
 =====================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents: 
 
-   0416/index
-   学习笔记/index
-
+   素数筛法/contents
+   字符串类型/contents
 
 
 Indices and tables
