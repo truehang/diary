@@ -13,6 +13,7 @@
    素数筛法/contents
    字符串类型/contents
    编程/contents
+   模版中的类型推导/contents
 
 
 Indices and tables
