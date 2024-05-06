@@ -13,6 +13,7 @@ Welcome to First Doc's documentation!
    0416/index
    学习笔记/index
    蓝牙键盘连接/contents
+   git中文显示/contents
 
 
 
