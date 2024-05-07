@@ -14,6 +14,7 @@ Welcome to First Doc's documentation!
    学习笔记/index
    蓝牙键盘连接/contents
    git中文显示/contents
+   硬盘测试/contents
 
 
 
