@@ -16,6 +16,7 @@ Welcome to First Doc's documentation!
    git中文显示/contents
    硬盘测试/contents
    apt安装失败/contents
+   learn_lua/README
 
 
 
