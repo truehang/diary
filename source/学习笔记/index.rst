@@ -14,6 +14,7 @@
    字符串类型/contents
    编程/contents
    模版中的类型推导/contents
+   有类型限制的模板函数/content
 
 
 Indices and tables
