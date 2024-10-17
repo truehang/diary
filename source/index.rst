@@ -17,6 +17,7 @@ Welcome to First Doc's documentation!
    硬盘测试/contents
    apt安装失败/contents
    learn_lua/README
+   杀死进程/1
 
 
 
