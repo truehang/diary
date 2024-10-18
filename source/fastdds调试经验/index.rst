@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-学习笔记
+fastdds调试经验
 =====================================
 
 .. toctree::
@@ -13,9 +13,3 @@
    ctrl_C不退出问题/1
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
