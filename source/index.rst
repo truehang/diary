@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to First Doc's documentation!
+日记内容
 =====================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents: 
+   :caption: 目录: 
 
    0416/index
    学习笔记/index
@@ -21,11 +21,3 @@ Welcome to First Doc's documentation!
    fastdds调试经验/index
 
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

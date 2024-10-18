@@ -8,7 +8,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents: 
+   :caption: 目录: 
 
    素数筛法/contents
    字符串类型/contents
@@ -16,10 +16,3 @@
    模版中的类型推导/contents
    有类型限制的模板函数/content
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
