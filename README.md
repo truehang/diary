@@ -6,7 +6,7 @@
 
 ```bash
 docker build . -t doc:latest
-docker run --rm -it --network host -v $PWD:/home/user/ws doc:latest bash
+docker run -u root --rm -it --network host -v $PWD:/home/user/ws doc:latest bash
 # 在容器中
 sphinx-autobuild source build/html
 ```
