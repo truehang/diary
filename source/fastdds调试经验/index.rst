@@ -3,24 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to First Doc's documentation!
+学习笔记
 =====================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents: 
 
-   0416/index
-   学习笔记/index
-   蓝牙键盘连接/contents
-   git中文显示/contents
-   硬盘测试/contents
-   apt安装失败/contents
-   learn_lua/README
-   杀死进程/1
-   fastdds调试经验/index
-
-
+   ctrl_C不退出问题/1
 
 
 Indices and tables
